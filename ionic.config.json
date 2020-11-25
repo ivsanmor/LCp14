@@ -1,0 +1,7 @@
+{
+  "name": "ionic-grid-examples",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
